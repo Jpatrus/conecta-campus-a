@@ -7,7 +7,7 @@
  ## Situação do projeto
  Versão inicial em construção durante o primeiro semestre de ADS. 
  ## Autor
- Seu nome completo: Álvaro Samuel Ferreira
+ Seu nome completo: João Patrus de Souza Neto
  
  ### ROADMAP
  
